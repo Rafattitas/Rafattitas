@@ -1,37 +1,79 @@
-# Saksham Taneja 👨‍💻
+```markdown
+# Rafat Almudarres 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
-[![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Rafat%20Almudarres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN)](YOUR_LINKEDIN)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square)](YOUR_PORTFOLIO)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-Rafat.Almudarres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Rafat.Almudarres@gmail.com)](mailto:Rafat.Almudarres@gmail.com)
+
 ---
 
-## Hi there 👋,
+## Hi there 👋
 
-### I'm Saksham Taneja, I am a community guy who loves tech and see myself as product enthoziast.
+### I'm Rafat Almudarres, a System Administrator and IT Infrastructure Engineer passionate about building secure, reliable and scalable IT environments.
+
 -------
-  
+
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+- 🖥️ System Administrator with **4+ years of experience** supporting enterprise IT infrastructure.
+- ☁️ Experienced in Microsoft 365, Google Workspace and cloud productivity solutions.
+- 🐧 Linux administrator with hands-on experience managing Docker containers, VPS hosting and Nginx.
+- 🔐 Passionate about network security using FortiGate, Sophos and Cisco technologies.
+- 💾 Experienced with VMware virtualization, Veeam Backup, Acronis Backup and disaster recovery.
+- 📦 Implemented and managed Odoo ERP solutions for enterprise environments.
+- 👥 Led IT support teams and improved IT service delivery through automation and process optimization.
+- 🚀 Always learning more about Cloud Infrastructure, Automation and DevOps.
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- 💬 Ask me about **Windows Server, Linux, Active Directory, Microsoft 365, VMware, Docker, Cisco, FortiGate, Sophos, Networking and IT Infrastructure.**
 
+- 📫 Reach me via **LinkedIn** or **Email**
+  - 📧 Rafat.Almudarres@gmail.com
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+- 🏆 Certifications
+  - CCNA
+  - FortiGate NSE 4
+  - Google Associate Cloud Engineer
+  - Google IT Support
+  - Microsoft MCSA 2016
+
+- ⚡ Fun fact: I enjoy solving infrastructure problems before users even notice them.
+
+- 💬 Feel free to contact me regarding **Infrastructure, Microsoft 365, Linux, VMware, Docker, Backup Solutions, Firewalls, Networking or System Administration.**
+
+---
+
+## 🚀 Featured Technologies
+
+- Windows Server
+- Linux
+- Active Directory
+- Microsoft 365
+- Google Workspace
+- VMware ESXi
+- Docker
+- Cisco
+- FortiGate
+- Sophos
+- Veeam Backup
+- Acronis Backup
+- Odoo ERP
+- Nginx
+- DNS
+- SSL
+- Git
+
+---
+
+![Rafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
 <!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
+✨ Special GitHub Profile README
+Replace:
+- YOUR_GITHUB_USERNAME
+- YOUR_LINKEDIN
+- YOUR_PORTFOLIO
 -->
+```
