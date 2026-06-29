@@ -2,275 +2,80 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=System+Administrator;Infrastructure+Engineer;Linux+%26+Docker+Specialist;Cloud+%7C+Microsoft+365+%7C+Networking;IT+Support+Team+Leader;Always+Learning+New+Technologies" />
+### 🚀 Infrastructure Engineer | Linux | Docker | Cloud | DevOps
 
----
+*Building secure, scalable, and automated infrastructure.*
 
-### 🚀 System Administrator | Infrastructure Engineer | Linux | Docker | Microsoft 365 | Cloud | Networking
-
-<p>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:Rafat.Almudarres@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge)
+[![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?logo=linux\&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?logo=docker\&logoColor=white)](#)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Expert-D83B01?logo=microsoftoffice\&logoColor=white)](#)
+[![VMware](https://img.shields.io/badge/VMware-Advanced-607078?logo=vmware\&logoColor=white)](#)
+[![Networking](https://img.shields.io/badge/Networking-Cisco-blue)](#)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💡 About Me
 
-I am a passionate **System Administrator** with strong experience designing, deploying, securing, and maintaining enterprise IT infrastructure.
+I'm an **Infrastructure Engineer** with over **4 years of experience** designing, deploying, and maintaining enterprise IT infrastructure across Windows and Linux environments.
 
-My professional background includes Windows Server, Linux Administration, Microsoft 365, Google Workspace, VMware, Docker, Backup Solutions, Network Security, and Cloud Services.
+My work focuses on **Linux administration, Docker, Microsoft 365, virtualization, networking, backup & disaster recovery, and infrastructure security**. I enjoy automating operational tasks, improving system reliability, and building scalable platforms that support modern development teams.
 
-I enjoy solving complex infrastructure problems, automating repetitive tasks, improving business continuity, and helping organizations build secure, scalable environments.
-
----
-
-# 🎯 Professional Summary
-
-* 💼 4+ Years of Professional Experience
-* 🖥 Windows & Linux Administration
-* ☁ Microsoft 365 Administrator
-* 🐧 Linux Specialist
-* 🐳 Docker Enthusiast
-* 🌐 Infrastructure Engineer
-* 🔐 Security Focused
-* 📦 Backup & Disaster Recovery
-* ⚡ Performance Optimization
-* 📈 IT Team Leadership
+I'm currently expanding my expertise in **Kubernetes, Terraform, CI/CD, and cloud-native technologies** as I continue my transition into a full-time **DevOps Engineering** role.
 
 ---
 
-# 🌍 Current Focus
+## ⚙️ Core Expertise
 
-* Enterprise Infrastructure
-* Linux Servers
-* Docker Containers
-* Active Directory
-* Microsoft 365
-* Virtualization
-* Cloud Technologies
-* Infrastructure Automation
-* Cybersecurity
-* High Availability
-
----
-
-# 🛠 Tech Stack
-
-## Operating Systems
-
-* Windows Server 2019
-* Ubuntu
-* Debian
-* CentOS
-* Rocky Linux
+* 🐧 Linux Administration
+* 🐳 Docker & Containerization
+* ☁️ Cloud Infrastructure
+* 🖥️ Windows Server & Active Directory
+* 📧 Microsoft 365 Administration
+* 🌐 Networking & VLAN Design
+* 🔐 FortiGate & Sophos Firewalls
+* 💾 Backup & Disaster Recovery
+* 📦 VMware Virtualization
+* 🔒 Infrastructure Security
+* 📈 Monitoring & Performance Optimization
 
 ---
 
-## Microsoft Technologies
+## 🚀 DevOps Journey
 
-* Active Directory
-* Group Policy
-* DNS
-* DHCP
-* File Server
-* Exchange Online
-* Microsoft Teams
-* SharePoint
-* Microsoft Defender
-* Azure Identity
-
----
-
-## Linux Technologies
-
-* Bash
-* Nginx
-* Apache
-* SSH
-* Cron
-* Systemd
-* Firewall
-* Package Management
+```text
+Linux            ████████████████ 95%
+Docker           ███████████████  90%
+Networking       ███████████████  90%
+Microsoft 365    ███████████████  90%
+VMware           ██████████████   85%
+Cloud            █████████████    80%
+Git              ████████████     75%
+Bash             ████████████     75%
+GitHub Actions   ███████          45%
+Terraform        ██████           40%
+Kubernetes       █████            35%
+Ansible          █████            35%
+```
 
 ---
 
-## Containers
-
-* Docker
-* Docker Compose
-* Private Registries
-* Container Networking
-* Docker Volumes
-
----
-
-## Virtualization
-
-* VMware ESXi
-* VMware vCenter
-* VPS Hosting
-* Hypervisor Management
-
----
-
-## Networking
-
-* Cisco Switching
-* VLAN
-* Routing
-* VPN
-* Firewall Policies
-* DNS
-* SSL
-* NAT
-* IP Planning
-
----
-
-## Security
-
-* FortiGate
-* Sophos Firewall
-* Endpoint Protection
-* Antivirus
-* MFA
-* Access Control
-* Security Policies
-
----
-
-## Backup
-
-* Veeam Backup
-* Acronis Backup
-* NAS
-* SAN
-* Disaster Recovery
-* Replication
-
----
-
-## Cloud
-
-* Microsoft 365
-* Google Workspace
-* VPS Hosting
-* DNS Management
-* SSL Certificates
-
----
-
-## Development Tools
-
-* Git
-* GitHub
-* VS Code
-* PowerShell
-* Bash
-
----
-
-# 🚀 Infrastructure Expertise
-
-✅ Active Directory
-
-✅ Group Policy
-
-✅ VMware
-
-✅ Microsoft 365
-
-✅ Linux
-
-✅ Docker
-
-✅ Cisco
-
-✅ FortiGate
-
-✅ Sophos
-
-✅ Veeam
-
-✅ Acronis
-
-✅ Google Workspace
-
-✅ DNS
-
-✅ SSL
-
-✅ VPN
-
-✅ Nginx
-
-✅ VPS Hosting
-
-✅ Odoo ERP
-
----
-
-# 📚 Currently Learning
+## 🌱 Currently Learning
 
 * Kubernetes
-* Ansible
 * Terraform
-* Azure
+* Ansible
+* GitHub Actions
+* Azure DevOps
 * AWS
-* DevOps
-* CI/CD
+* Prometheus
+* Grafana
+* Helm
 * Infrastructure as Code
-* Monitoring
-* Automation
 
 ---
 
-# 💡 Philosophy
+## 🎯 Career Goal
 
-> Good infrastructure should be secure, automated, monitored, documented, and reliable.
-
----
-
-# ⭐ Core Values
-
-* Reliability
-* Security
-* Automation
-* Documentation
-* Scalability
-* Continuous Learning
-* Teamwork
-* Leadership
-* Innovation
-* Problem Solving
-
----
-
-# ⚡ Fun Facts
-
-* ☕ Coffee Powered Administrator
-* 🐧 Linux Lover
-* 🐳 Docker Fan
-* 🌐 Networking Enthusiast
-* 📚 Lifelong Learner
-* 🚀 Infrastructure Builder
-* 🔐 Security Minded
-* 🎯 Detail Oriented
-
----
+To become a **Cloud & DevOps Engineer** specializing in automation, Kubernetes, cloud infrastructure, CI/CD, Infrastructure as Code, and platform engineering while leveraging my strong background in enterprise infrastructure.
