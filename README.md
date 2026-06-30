@@ -193,9 +193,11 @@ I believe that strong DevOps starts with strong infrastructure knowledge — and
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafat_Almudarres-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Rafat_Almudarres-181717?style=for-the-badge\&logo=github\&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafat_Almudarres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafat-almudarres-96b56b198)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://r.almudarres.newgulfconsult.com/)
+
+[![Email](https://img.shields.io/badge/Email-Rafat.Almudarres-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafat.Almudarres@gmail.com)
 
 </div>
 
