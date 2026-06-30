@@ -22,12 +22,13 @@
 
 ## 🧠 About Me
 
-I'm an **Infrastructure Engineer** with **4+ years of experience** in designing, deploying, securing, and maintaining enterprise IT infrastructure across **Linux, Windows Server, networking, virtualization, firewalls, Microsoft 365, backup, and disaster recovery** environments.
+I'm an **Infrastructure Engineer** moving deeper into **DevOps, Cloud, and Automation**.
 
-My core strength is building stable and secure infrastructure, but my current focus is moving deeper into **DevOps, cloud-native technologies, automation, CI/CD, containers, and Infrastructure as Code**.
+My foundation is built on **Linux, Docker, networking, firewalls, virtualization, Microsoft 365, backup, and enterprise infrastructure** — with **4+ years of real-world experience** supporting and securing business-critical systems.
 
-I enjoy solving real infrastructure problems, automating repetitive tasks, improving system reliability, and building environments that are easier to deploy, monitor, scale, and secure.
+Now I'm focused on building modern infrastructure using **containers, CI/CD, Infrastructure as Code, Kubernetes, monitoring, and cloud-native tools**.
 
+I believe great DevOps starts with strong infrastructure.
 ---
 
 ## ⚙️ What I Work With
