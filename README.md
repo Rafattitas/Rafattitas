@@ -177,27 +177,19 @@ I believe that strong DevOps starts with strong infrastructure knowledge — and
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafat_Almudarres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafat-almudarres-96b56b198)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://r.almudarres.newgulfconsult.com/)
-
-[![Email](https://img.shields.io/badge/Email-Rafat.Almudarres-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafat.Almudarres@gmail.com)
+<a href="https://www.linkedin.com/in/rafat-almudarres-96b56b198">
+  <img src="https://img.shields.io/badge/LinkedIn-Rafat_Almudarres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://r.almudarres.newgulfconsult.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:Rafat.Almudarres@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Rafat.Almudarres-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
