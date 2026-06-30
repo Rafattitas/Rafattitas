@@ -30,53 +30,13 @@ Now I'm focused on building modern infrastructure using **containers, CI/CD, Inf
 
 I believe great DevOps starts with strong infrastructure.
 ---
-
 ## ⚙️ What I Work With
 
-### 🐧 Linux & Systems
-
-* Linux server administration
-* Bash scripting
-* System hardening
-* Package and service management
-* User, permission, and process management
-* Troubleshooting performance, logs, storage, and networking issues
-
-### 🐳 Containers & DevOps
-
-* Docker containerization
-* Docker Compose
-* Application deployment environments
-* Git and GitHub workflows
-* CI/CD fundamentals
-* Kubernetes learning path
-* Infrastructure automation
-
-### ☁️ Cloud & Infrastructure
-
-* Cloud infrastructure concepts
-* AWS and Azure learning path
-* Virtual machines and cloud networking
-* Backup and disaster recovery planning
-* Monitoring and availability improvement
-
-### 🌐 Networking & Security
-
-* VLANs and network segmentation
-* FortiGate and Sophos firewalls
-* VPN configuration and troubleshooting
-* Access control and infrastructure security
-* DNS, DHCP, NAT, routing, and firewall policies
-
-### 🖥️ Enterprise IT
-
-* Windows Server administration
-* Active Directory
-* Microsoft 365 administration
-* VMware virtualization
-* Endpoint and server support
-* Infrastructure documentation
-
+- **Linux & Servers:** Linux administration, Bash, system hardening, troubleshooting
+- **Containers & DevOps:** Docker, Docker Compose, Git, GitHub Actions, CI/CD basics
+- **Cloud & Infrastructure:** AWS, Azure, VPS hosting, backup, disaster recovery
+- **Networking & Security:** VLANs, DNS, DHCP, VPN, FortiGate, Sophos, firewall policies
+- **Enterprise IT:** Windows Server, Active Directory, Microsoft 365, VMware
 ---
 
 ## 🧰 Tech Stack
@@ -191,7 +151,7 @@ I believe that strong DevOps starts with strong infrastructure knowledge — and
 </a>
 
 </div>
----
+
 
 <div align="center">
 
