@@ -120,21 +120,6 @@ My goal is to become a strong **Cloud & DevOps Engineer** with a solid foundatio
 * Platform engineering
 
 I believe that strong DevOps starts with strong infrastructure knowledge — and that is exactly the foundation I am building on.
-
----
-
-## 📌 Featured Project Ideas
-
-> Coming soon — hands-on labs and real-world DevOps projects.
-
-* Dockerized web application deployment
-* Linux server hardening scripts
-* CI/CD pipeline using GitHub Actions
-* Nginx reverse proxy with Docker Compose
-* Monitoring stack with Prometheus and Grafana
-* Infrastructure provisioning with Terraform
-* Ansible automation playbooks
-* Kubernetes deployment manifests
 ---
 ## 🤝 Let's Connect
 
