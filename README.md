@@ -1,5 +1,115 @@
-# 👋 Hi, I'm Rafat Almudarres <div align="center"> ## 🚀 Infrastructure Engineer → DevOps Engineer ### Linux • Docker • Cloud • Automation • Secure Infrastructure its now like better then all right or its to longe for github can you make it 10 of 10 and tell me what should i do **Building reliable, scalable, and automated infrastructure for modern teams.** <br> ![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge\&logo=linux\&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-In_Progress-0A66C2?style=for-the-badge\&logo=githubactions\&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-4285F4?style=for-the-badge\&logo=cloudflare\&logoColor=white) ![Security](https://img.shields.io/badge/Infrastructure-Security-red?style=for-the-badge\&logo=fortinet\&logoColor=white) </div> --- ## 🧠 About Me I'm an **Infrastructure Engineer** moving deeper into **DevOps, Cloud, and Automation**. My foundation is built on **Linux, Docker, networking, firewalls, virtualization, Microsoft 365, backup, and enterprise infrastructure** — with **4+ years of real-world experience** supporting and securing business-critical systems. Now I'm focused on building modern infrastructure using **containers, CI/CD, Infrastructure as Code, Kubernetes, monitoring, and cloud-native tools**. I believe great DevOps starts with strong infrastructure. --- ## ⚙️ What I Work With ### 🐧 Linux & Systems * Linux server administration * Bash scripting * System hardening * Package and service management * User, permission, and process management * Troubleshooting performance, logs, storage, and networking issues ### 🐳 Containers & DevOps * Docker containerization * Docker Compose * Application deployment environments * Git and GitHub workflows * CI/CD fundamentals * Kubernetes learning path * Infrastructure automation ### ☁️ Cloud & Infrastructure * Cloud infrastructure concepts * AWS and Azure learning path * Virtual machines and cloud networking * Backup and disaster recovery planning * Monitoring and availability improvement ### 🌐 Networking & Security * VLANs and network segmentation * FortiGate and Sophos firewalls * VPN configuration and troubleshooting * Access control and infrastructure security * DNS, DHCP, NAT, routing, and firewall policies ### 🖥️ Enterprise IT * Windows Server administration * Active Directory * Microsoft 365 administration * VMware virtualization * Endpoint and server support * Infrastructure documentation --- ## 🧰 Tech Stack <div align="center"> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square\&logo=debian\&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square\&logo=ansible\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square\&logo=vmware\&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square\&logo=microsoftoffice\&logoColor=white) ![Fortinet](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square\&logo=fortinet\&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white) </div> --- ## 🚀 DevOps & Infrastructure Focus
-text
+# 👋 Hi, I'm Rafat Almudarres
+
+<div align="center">
+
+## 🚀 Infrastructure Engineer → DevOps Engineer
+
+### Linux • Docker • Cloud • Automation • Secure Infrastructure
+
+**Building reliable, scalable, and automated infrastructure for modern teams.**
+
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-In_Progress-0A66C2?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-4285F4?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Security](https://img.shields.io/badge/Infrastructure-Security-red?style=for-the-badge\&logo=fortinet\&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm an **Infrastructure Engineer** moving deeper into **DevOps, Cloud, and Automation**.
+
+My foundation is built on **Linux, Docker, networking, firewalls, virtualization, Microsoft 365, backup, and enterprise infrastructure** — with **4+ years of real-world experience** supporting and securing business-critical systems.
+
+Now I'm focused on building modern infrastructure using **containers, CI/CD, Infrastructure as Code, Kubernetes, monitoring, and cloud-native tools**.
+
+I believe great DevOps starts with strong infrastructure.
+---
+
+## ⚙️ What I Work With
+
+### 🐧 Linux & Systems
+
+* Linux server administration
+* Bash scripting
+* System hardening
+* Package and service management
+* User, permission, and process management
+* Troubleshooting performance, logs, storage, and networking issues
+
+### 🐳 Containers & DevOps
+
+* Docker containerization
+* Docker Compose
+* Application deployment environments
+* Git and GitHub workflows
+* CI/CD fundamentals
+* Kubernetes learning path
+* Infrastructure automation
+
+### ☁️ Cloud & Infrastructure
+
+* Cloud infrastructure concepts
+* AWS and Azure learning path
+* Virtual machines and cloud networking
+* Backup and disaster recovery planning
+* Monitoring and availability improvement
+
+### 🌐 Networking & Security
+
+* VLANs and network segmentation
+* FortiGate and Sophos firewalls
+* VPN configuration and troubleshooting
+* Access control and infrastructure security
+* DNS, DHCP, NAT, routing, and firewall policies
+
+### 🖥️ Enterprise IT
+
+* Windows Server administration
+* Active Directory
+* Microsoft 365 administration
+* VMware virtualization
+* Endpoint and server support
+* Infrastructure documentation
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square\&logo=debian\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square\&logo=ansible\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square\&logo=vmware\&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square\&logo=microsoftoffice\&logoColor=white)
+![Fortinet](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square\&logo=fortinet\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 DevOps & Infrastructure Focus
+
+```text
 Linux Administration     ████████████████████  95%
 Docker                   ██████████████████    90%
 Networking               ██████████████████    90%
@@ -13,4 +123,78 @@ CI/CD                    ██████████            50%
 Terraform                ████████              40%
 Kubernetes               ███████               35%
 Ansible                  ███████               35%
---- ## 🌱 Currently Leveling Up I'm currently expanding my DevOps skill set through hands-on practice with: * Kubernetes * Terraform * Ansible * GitHub Actions * Azure DevOps * AWS * Prometheus * Grafana * Helm * CI/CD pipelines * Infrastructure as Code * Cloud-native deployment patterns --- ## 🛠️ Current Direction My goal is to become a strong **Cloud & DevOps Engineer** with a solid foundation in: * Linux infrastructure * Containerized deployments * Kubernetes orchestration * CI/CD automation * Infrastructure as Code * Monitoring and observability * Secure and scalable cloud platforms * Platform engineering I believe that strong DevOps starts with strong infrastructure knowledge — and that is exactly the foundation I am building on. --- ## 📌 Featured Project Ideas > Coming soon — hands-on labs and real-world DevOps projects. * Dockerized web application deployment * Linux server hardening scripts * CI/CD pipeline using GitHub Actions * Nginx reverse proxy with Docker Compose * Monitoring stack with Prometheus and Grafana * Infrastructure provisioning with Terraform * Ansible automation playbooks * Kubernetes deployment manifests --- ## 🤝 Let's Connect <div align="center"> <a href="https://www.linkedin.com/in/rafat-almudarres-96b56b198"> <img src="https://img.shields.io/badge/LinkedIn-Rafat_Almudarres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://r.almudarres.newgulfconsult.com/"> <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:Rafat.Almudarres@gmail.com"> <img src="https://img.shields.io/badge/Email-Rafat.Almudarres-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> --- <div align="center"> ### ⚡ Infrastructure first. Automation always. DevOps in progress. </div>
+```
+
+---
+
+## 🌱 Currently Leveling Up
+
+I'm currently expanding my DevOps skill set through hands-on practice with:
+
+* Kubernetes
+* Terraform
+* Ansible
+* GitHub Actions
+* Azure DevOps
+* AWS
+* Prometheus
+* Grafana
+* Helm
+* CI/CD pipelines
+* Infrastructure as Code
+* Cloud-native deployment patterns
+
+---
+
+## 🛠️ Current Direction
+
+My goal is to become a strong **Cloud & DevOps Engineer** with a solid foundation in:
+
+* Linux infrastructure
+* Containerized deployments
+* Kubernetes orchestration
+* CI/CD automation
+* Infrastructure as Code
+* Monitoring and observability
+* Secure and scalable cloud platforms
+* Platform engineering
+
+I believe that strong DevOps starts with strong infrastructure knowledge — and that is exactly the foundation I am building on.
+
+---
+
+## 📌 Featured Project Ideas
+
+> Coming soon — hands-on labs and real-world DevOps projects.
+
+* Dockerized web application deployment
+* Linux server hardening scripts
+* CI/CD pipeline using GitHub Actions
+* Nginx reverse proxy with Docker Compose
+* Monitoring stack with Prometheus and Grafana
+* Infrastructure provisioning with Terraform
+* Ansible automation playbooks
+* Kubernetes deployment manifests
+---
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rafat-almudarres-96b56b198">
+  <img src="https://img.shields.io/badge/LinkedIn-Rafat_Almudarres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://r.almudarres.newgulfconsult.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:Rafat.Almudarres@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Rafat.Almudarres-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+---
+
+<div align="center">
+
+### ⚡ Infrastructure first. Automation always. DevOps in progress.
+
+</div>
