@@ -71,14 +71,12 @@ I'm currently deepening my skills through hands-on work with:
 - Prometheus and Grafana
 - Secure, scalable cloud deployment patterns
 
-## GitHub activity
+## What I'm building
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafattitas&show_icons=true&hide_border=true&theme=transparent" alt="Rafat's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafattitas&hide_border=true&theme=transparent" alt="Rafat's GitHub streak" />
-
-</div>
+- Reusable infrastructure and deployment workflows
+- Containerized services with clear operational documentation
+- Practical CI/CD pipelines for reliable releases
+- Monitoring stacks that make systems easier to understand and support
 
 ---
 
