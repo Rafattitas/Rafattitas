@@ -1,145 +1,91 @@
-# 👋 Hi, I'm Rafat Almudarres
-
 <div align="center">
 
-## 🚀 Infrastructure Engineer → DevOps Engineer
+# Hi, I'm Rafat Almudarres 👋
 
-### Linux • Docker • Cloud • Automation • Secure Infrastructure
+### Infrastructure Engineer building toward Cloud & DevOps
 
-**Building reliable, scalable, and automated infrastructure for modern teams.**
+**Linux · Docker · Networking · Automation · Secure Infrastructure**
 
-<br>
-
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-In_Progress-0A66C2?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-4285F4?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-![Security](https://img.shields.io/badge/Infrastructure-Security-red?style=for-the-badge\&logo=fortinet\&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://r.almudarres.newgulfconsult.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafat-almudarres-96b56b198)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafat.Almudarres@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About me
 
-I'm an **Infrastructure Engineer** moving deeper into **DevOps, Cloud, and Automation**.
+I'm an **Infrastructure Engineer** with **4+ years of hands-on experience** supporting and securing business-critical systems. My background spans Linux, networking, firewalls, virtualization, Microsoft 365, backup, and enterprise infrastructure.
 
-My foundation is built on **Linux, Docker, networking, firewalls, virtualization, Microsoft 365, backup, and enterprise infrastructure** — with **4+ years of real-world experience** supporting and securing business-critical systems.
+Today, I'm applying that foundation to **Cloud and DevOps engineering**—building repeatable environments, containerized services, CI/CD workflows, infrastructure as code, and observable systems.
 
-Now I'm focused on building modern infrastructure using **containers, CI/CD, Infrastructure as Code, Kubernetes, monitoring, and cloud-native tools**.
+> Strong DevOps starts with strong infrastructure.
 
-I believe great DevOps starts with strong infrastructure.
----
-## ⚙️ What I Work With
+## What I bring
 
-- **Linux & Servers:** Linux administration, Bash, system hardening, troubleshooting
-- **Containers & DevOps:** Docker, Docker Compose, Git, GitHub Actions, CI/CD basics
-- **Cloud & Infrastructure:** AWS, Azure, VPS hosting, backup, disaster recovery
-- **Networking & Security:** VLANs, DNS, DHCP, VPN, FortiGate, Sophos, firewall policies
-- **Enterprise IT:** Windows Server, Active Directory, Microsoft 365, VMware
----
+- 🐧 **Systems:** Linux administration, Bash, troubleshooting, hardening
+- 📦 **Containers:** Docker, Docker Compose, containerized deployments
+- 🌐 **Infrastructure:** DNS, DHCP, VLANs, VPNs, VMware, backup and recovery
+- 🔐 **Security:** FortiGate, Sophos, firewall policies, secure operations
+- ☁️ **Cloud:** AWS, Azure, VPS hosting, cloud infrastructure fundamentals
+- ⚙️ **Automation:** GitHub Actions, CI/CD, Terraform, Ansible
+- 📊 **Observability:** Prometheus and Grafana
 
-## 🧰 Tech Stack
+## Toolbox
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square\&logo=debian\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square\&logo=ansible\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square\&logo=vmware\&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square\&logo=microsoftoffice\&logoColor=white)
-![Fortinet](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square\&logo=fortinet\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
+![Fortinet](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </div>
 
----
-
-## 🚀 DevOps & Infrastructure Focus
+## Current focus
 
 ```text
-Linux Administration     ████████████████████  95%
-Docker                   ██████████████████    90%
-Networking               ██████████████████    90%
-Microsoft 365            ██████████████████    90%
-VMware                   █████████████████     85%
-Infrastructure Security  █████████████████     85%
-Cloud Infrastructure     ████████████████      80%
-Git & GitHub             ███████████████       75%
-Bash Scripting           ███████████████       75%
-CI/CD                    ██████████            50%
-Terraform                ████████              40%
-Kubernetes               ███████               35%
-Ansible                  ███████               35%
+Infrastructure foundation  →  Automation  →  Cloud-native operations
+Linux & networking         →  IaC / CI/CD →  Kubernetes & observability
 ```
 
----
+I'm currently deepening my skills through hands-on work with:
 
-## 🌱 Currently Leveling Up
+- Kubernetes and Helm
+- Terraform and Ansible
+- GitHub Actions and CI/CD pipelines
+- AWS and Azure
+- Prometheus and Grafana
+- Secure, scalable cloud deployment patterns
 
-I'm currently expanding my DevOps skill set through hands-on practice with:
-
-* Kubernetes
-* Terraform
-* Ansible
-* GitHub Actions
-* Azure DevOps
-* AWS
-* Prometheus
-* Grafana
-* Helm
-* CI/CD pipelines
-* Infrastructure as Code
-* Cloud-native deployment patterns
-
----
-
-## 🛠️ Current Direction
-
-My goal is to become a strong **Cloud & DevOps Engineer** with a solid foundation in:
-
-* Linux infrastructure
-* Containerized deployments
-* Kubernetes orchestration
-* CI/CD automation
-* Infrastructure as Code
-* Monitoring and observability
-* Secure and scalable cloud platforms
-* Platform engineering
-
-I believe that strong DevOps starts with strong infrastructure knowledge — and that is exactly the foundation I am building on.
----
-## 🤝 Let's Connect
+## GitHub activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rafat-almudarres-96b56b198">
-  <img src="https://img.shields.io/badge/LinkedIn-Rafat_Almudarres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://r.almudarres.newgulfconsult.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:Rafat.Almudarres@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Rafat.Almudarres-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafattitas&show_icons=true&hide_border=true&theme=transparent" alt="Rafat's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafattitas&hide_border=true&theme=transparent" alt="Rafat's GitHub streak" />
 
 </div>
 
+---
 
 <div align="center">
 
-### ⚡ Infrastructure first. Automation always. DevOps in progress.
+### Infrastructure first. Automation always.
+
+Open to connecting with engineers, teams, and opportunities in **Infrastructure, Cloud, and DevOps**.
 
 </div>
